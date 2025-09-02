@@ -4,10 +4,11 @@ Bem-vindo(a) ao meu perfil no GitHub! Sou nutricionista e estou em transição d
 
 ## 🌱 O que estou aprendendo
 
-Atualmente, estou focada em aprender e desenvolver habilidades em:
+Estou aprimorando minhas habilidades para criar experiências web modernas e interativas:
 - **HTML**: Estruturando páginas web de forma eficiente.
 - **CSS**: Criando layouts funcionais e responsivos.
 - **JavaScript**: Adicionando interatividade às minhas páginas.
+- **React**: Construindo interfaces dinâmicas e reutilizáveis com componentes.
 
 ## 📈 Estatísticas do GitHub
 
@@ -19,5 +20,5 @@ Atualmente, estou focada em aprender e desenvolver habilidades em:
 
 ## ⚡ Fatos Rápidos
 
-- 🎮 Nas horas vagas, sou fã de jogos e estou amando aprender a desenvolver pequenos games.
-- 📚 Apaixonada por histórias de fantasia, como as de Harry Potter e O Senhor dos Anéis.
+- 🎮 Nas horas vagas, sou fã de jogos e estou amando aprender a desenvolver algumas interfaces.
+- 📚 Leitura de fantasia e ficção científica são meus escapes criativos.
