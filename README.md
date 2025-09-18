@@ -20,5 +20,6 @@ Estou aprimorando minhas habilidades para criar experiências web modernas e int
 
 ## ⚡ Fatos Rápidos
 
+- 💻 Desenvolvedora front-end em transição de carreira, focada em React.
 - 🎮 Nas horas vagas, sou fã de jogos e estou amando aprender a desenvolver algumas interfaces.
 - 📚 Leitura de fantasia e ficção científica são meus escapes criativos.
