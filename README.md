@@ -12,7 +12,7 @@ Estou aprimorando minhas habilidades para criar experiências web modernas e int
 
 ## 📈 Estatísticas do GitHub
 
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Yasmim123456&show_icons=true&theme=radical)
+![Suas Estatísticas do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yasmim123456&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar
 
