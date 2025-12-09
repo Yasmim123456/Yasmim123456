@@ -34,7 +34,7 @@ Estou aprimorando minhas habilidades para criar experiências web modernas e int
     </td>
     <td valign="top" align="center">
       <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"><br>
-      <img src="https://img.shields.io-badge/REST-009688?style=for-the-badge&logo=api&logoColor=white">
+      <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=web&logoColor=white" alt="REST">
     </td>
   </tr>
 </table>
