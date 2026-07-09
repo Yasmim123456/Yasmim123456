@@ -1,6 +1,7 @@
 # Olá, eu sou Yasmim 👋
 
-Bem-vindo(a) ao meu perfil no GitHub! Sou nutricionista e estou em transição de carreira, explorando novas oportunidades no desenvolvimento web. Após anos trabalhando na área da saúde, decidi expandir meus horizontes e me aventurar no mundo da tecnologia. Desejo criar soluções que possam impactar positivamente a vida das pessoas, assim como fazia na Nutrição, mas agora através da tecnologia.
+Bem-vindo(a) ao meu perfil no GitHub! 
+Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha carreira na área de desenvolvimento de software. Aqui compartilho meus projetos, estudos e aprendizados ao longo da minha jornada na tecnologia.
 
 ## 🌱 O que estou aprendendo
 
@@ -45,6 +46,8 @@ Estou aprimorando minhas habilidades para criar experiências web modernas e int
 
 ## ⚡ Fatos Rápidos
 
-- 💻 Desenvolvedora front-end em transição de carreira, focada em React.
-- 🎮 Nas horas vagas, sou fã de jogos e estou amando aprender a desenvolver algumas interfaces.
-- 📚 Leitura de fantasia e ficção científica são meus escapes criativos.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+- 💻 Atualmente, meus estudos e projetos são voltados principalmente para o desenvolvimento front-end.
+- 🎮 Gosto de jogos para celular, jogos web e jogos para PC.
+- 📚 Gosto de ler livros de fantasia e ficção científica.
+- 🌱 Minha primeira graduação foi em Nutrição; hoje estou construindo minha carreira em tecnologia.
