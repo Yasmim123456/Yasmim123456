@@ -50,4 +50,3 @@ Estou aprimorando minhas habilidades para criar experiências web modernas e int
 - 💻 Atualmente, meus estudos e projetos são voltados principalmente para o desenvolvimento front-end.
 - 🎮 Gosto de jogos para celular, jogos web e jogos para PC.
 - 📚 Gosto de ler livros de fantasia e ficção científica.
-- 🌱 Minha primeira graduação foi em Nutrição; hoje estou construindo minha carreira em tecnologia.
